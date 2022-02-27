@@ -16,7 +16,7 @@ namespace DepartmentApss
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmNewDepartment());
+            Application.Run(new FrmPosition());
         }
     }
 }

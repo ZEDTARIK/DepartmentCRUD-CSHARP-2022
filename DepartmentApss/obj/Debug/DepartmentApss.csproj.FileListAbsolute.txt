@@ -16,3 +16,4 @@ C:\Users\ASUS\Desktop\Projects\C#\DepartmentApss\DepartmentApss\bin\Debug\BLL.pd
 C:\Users\ASUS\Desktop\Projects\C#\DepartmentApss\DepartmentApss\bin\Debug\DAL.pdb
 C:\Users\ASUS\Desktop\Projects\C#\DepartmentApss\DepartmentApss\bin\Debug\DAL.dll.config
 C:\Users\ASUS\Desktop\Projects\C#\DepartmentApss\DepartmentApss\obj\Debug\DepartmentApss.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Projects\C#\DepartmentApss\DepartmentApss\obj\Debug\DepartmentApss.FrmPosition.resources

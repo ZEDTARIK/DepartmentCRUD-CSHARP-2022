@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="DAO\DataLayer.cs" />
     <Compile Include="DAO\DepartmentDAO.cs" />
+    <Compile Include="DAO\PositionDAO.cs" />
     <Compile Include="DataDepartment.designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
